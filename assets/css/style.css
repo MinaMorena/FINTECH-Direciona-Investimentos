@@ -1,0 +1,21 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.cabecalho {
+    background-color: #49386C;
+    color: #E33B06;
+    font-size: 2.5rem;
+}
+
+body {
+    background-color: #8D6FCD;
+}
+
+.btn {
+    font-size: 2.5rem;
+}
+
+img {
+    max-height: 30vh;
+}
